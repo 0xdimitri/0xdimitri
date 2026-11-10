@@ -16,7 +16,7 @@
 visitor@github:~$ cat ./about_me.txt
 
   Name    : Shibasis Choudhury
-  Handle  : shibasis-ls
+  Handle  : 0xdimitri
   Uni     : NIT Durgapur  
   Focus   : Cybersecurity · Red Teaming · AI Red Teaming · Bug Bounty
   Collab  : OPEN — reach out anytime ✅
@@ -28,9 +28,9 @@ visitor@github:~$ cat ./about_me.txt
 
 | Project                                                                                     | Description                                               | Stack                       |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------- |
-| [**netcat**](https://github.com/shibasis-ls/netcat.git)                              |A Python reimplementation of core netcat functionality, built for network communication, remote command execution, and file transfer       | `Python`       |
-| [**tcp-proxy**](https://github.com/shibasis-ls/tcp-proxy.git)                                          |A transparent TCP proxy for intercepting, logging, and modifying traffic between a client and a remote host.      | `Python`       |
-| [**webbf**](https://github.com/shibasis-ls/webbf)                                           |A high-velocity tool designed to audit web authentication layers through automated credential spraying       | `Python`       |
+| [**netcat**](https://github.com/0xdimitri/netcat.git)                              |A Python reimplementation of core netcat functionality, built for network communication, remote command execution, and file transfer       | `Python`       |
+| [**tcp-proxy**](https://github.com/0xdimitri/tcp-proxy.git)                                          |A transparent TCP proxy for intercepting, logging, and modifying traffic between a client and a remote host.      | `Python`       |
+| [**webbf**](https://github.com/0xdimitri/webbf)                                           |A high-velocity tool designed to audit web authentication layers through automated credential spraying       | `Python`       |
 
 
 ---
@@ -63,8 +63,8 @@ current = {
 
 ```python
 contact = {
-    "github"  : "github.com/shibasis-ls",
-    "email"   : "shibasis314@proton.me",
+    "github"  : "github.com/0xdimitri",
+    "email"   : "0xdimitri@proton.me",
     "uni"     : "NIT Durgapur",
     "status"  : "Open to collabs & opportunities 🟢",
 }
